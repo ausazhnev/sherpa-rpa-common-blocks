@@ -63,7 +63,9 @@
 
 - **Версия:** 1.0.0
 - **Совместимость:** Sherpa RPA 1.4.4
+- **Файлы утилиты:**
+  -  [Диаграмма (copy-file.process)](copy-file.process) — исходный файл Sherpa RPA
+  - 🔄 [BPMN-схема процесса](copy-file-bpmn.png) — визуализация логики
 - **Документация:**
-  - 📖 [Техническая спецификация (SPEC.md)](./SPEC.md)
-  - 📝 [История изменений (CHANGELOG.md)](./CHANGELOG.md)
-  - 🔄 [BPMN-схема процесса](./process.bpmn)
+  - 📖 [Техническая спецификация (SPEC.md)](SPEC.md)
+  - 📝 [История изменений (CHANGELOG.md)](CHANGELOG.md)
